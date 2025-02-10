@@ -48,7 +48,13 @@ I want the portfolio to actually reflect reality when a new stock is added, so i
 ## Examples
 
 ### Portfolio
+![Bildschirmfoto 2025-02-09 um 22 02 10](https://github.com/user-attachments/assets/30cb9fe4-81a4-44af-9105-a458a4278eda)
+![Bildschirmfoto 2025-02-09 um 22 02 02](https://github.com/user-attachments/assets/9b14b17a-cca3-41d7-82e9-a0b8c2425361)
+![Bildschirmfoto 2025-02-09 um 22 03 47](https://github.com/user-attachments/assets/c799dad0-386e-44e3-bdd7-9fe785b0f2db)
 
 ### Sentiment Analysis
+![Bildschirmfoto 2025-02-09 um 21 50 33](https://github.com/user-attachments/assets/b0e24fe7-d563-45da-9563-b87760ee2171)
 
 ### Notify Me
+![Bildschirmfoto 2025-02-09 um 21 39 52](https://github.com/user-attachments/assets/e7e4b216-725b-4269-b2a9-2fb2f8cc3ec7)
+<img width="656" alt="Bildschirmfoto 2025-02-09 um 21 39 21" src="https://github.com/user-attachments/assets/5ce98868-3a69-4d77-994f-0ff47b0a773d" />
